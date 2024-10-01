@@ -1,1 +1,0 @@
-# Handwritten_Image_Classification
