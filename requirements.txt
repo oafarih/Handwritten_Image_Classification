@@ -1,0 +1,7 @@
+opendatasets
+pandas
+numpy==1.26
+pillow
+torch
+torchvision
+matplotlib
