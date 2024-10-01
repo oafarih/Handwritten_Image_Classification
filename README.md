@@ -1,5 +1,5 @@
 
-# Handwritten Image Classification
+# Handwritten Numbers (0-9) Image Classification
 
 This project classifies handwritten digits using a convolutional neural network (CNN) built with PyTorch. The dataset is sourced from Kaggle and preprocessed for training, validation, and testing. The goal is to achieve high accuracy in digit recognition through deep learning techniques.
 
@@ -16,8 +16,8 @@ This project classifies handwritten digits using a convolutional neural network 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/oafarih/Handwritten_Image_Classification.git
-   cd Handwritten_Image_Classification
+   git clone https://github.com/oafarih/Handwritten_Numbers_Image_Classification.git
+   cd Handwritten_Numbers_Image_Classification
    ```
 
 2. Install the required dependencies:
